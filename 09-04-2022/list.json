@@ -1,0 +1,58 @@
+{
+    "games": [
+        {
+            "name": "Minecraft",
+            "title": "CUSA00744",
+            "version": "02.35",
+            "url": "./games/CUSA00744_02.35.json"
+        },
+        {
+            "name": "Shadow Warrior 2",
+            "title": "CUSA05648",
+            "version": "01.06",
+            "url": "./games/CUSA05648_01.06.json"
+        },
+        {
+            "name": "Cities: Skylines",
+            "title": "CUSA06407",
+            "version": "10.05",
+            "url": "./games/CUSA06407_10.05.json"
+        },
+        {
+            "name": "Cities: Skylines",
+            "title": "CUSA06548",
+            "version": "10.05",
+            "url": "./games/CUSA06548_10.05.json"
+        },
+        {
+            "name": "Pillars of Eternity: Complete Edition",
+            "title": "CUSA06880",
+            "version": "01.00",
+            "url": "./games/CUSA06880_01.00.json"
+        },
+        {
+            "name": "Hellblade: Senua's Sacrifice™",
+            "title": "CUSA07527",
+            "version": "01.02",
+            "url": "./games/CUSA07527_01.02.json"
+        },
+        {
+            "name": "Need for Speed™ Heat",
+            "title": "CUSA15090",
+            "version": "1.00",
+            "url": "./games/CUSA15090_01.00.json"
+        },
+        {
+            "name": "Stranded Deep",
+            "title": "CUSA18449",
+            "version": "01.12",
+            "url": "./games/CUSA18449_01.12.json"
+        },
+        {
+            "name": "Blaster Master Zero 3",
+            "title": "CUSA27578",
+            "version": "01.12",
+            "url": "./games/CUSA27578_01.12.json"
+        }
+    ]
+}

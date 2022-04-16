@@ -1,0 +1,58 @@
+{
+    "games": [
+        {
+            "name": "GOD EATER 2 RAGE BURST",
+            "title": "CUSA01714",
+            "version": "01.00",
+            "url": "./games/CUSA01714_01.00.json"
+        },
+        {
+            "name": "Torchlight III",
+            "title": "CUSA10227",
+            "version": "01.15",
+            "url": "./games/CUSA10227_01.15.json"
+        },
+        {
+            "name": "Chronos Before the Ashes",
+            "title": "CUSA15161",
+            "version": "01.01",
+            "url": "./games/CUSA15161_01.01.json"
+        },
+        {
+            "name": "Streets Of Rage 4",
+            "title": "CUSA16221",
+            "version": "1.6",
+            "url": "./games/CUSA16221_1.6.json"
+        },
+        {
+            "name": "Hellpoint",
+            "title": "CUSA17806",
+            "version": "01.21",
+            "url": "./games/CUSA17806_01.21.json"
+        },
+        {
+            "name": "Big Rumble Boxing Creed Champions",
+            "title": "CUSA25617",
+            "version": "01.00",
+            "url": "./games/CUSA25617_01.00.json"
+        },
+        {
+            "name": "DEMON SLAYER",
+            "title": "CUSA27306",
+            "version": "01.31",
+            "url": "./games/CUSA27306_01.31.json"
+        },
+        {
+            "name": "Hades",
+            "title": "CUSA27387",
+            "version": "01.03",
+            "url": "./games/CUSA27387_01.03.json"
+        },
+        {
+            "name": "Tormented souls",
+            "title": "CUSA29199",
+            "version": "01.00",
+            "url": "./games/CUSA29199_01.00.json"
+        }
+    ]
+}
