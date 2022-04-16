@@ -8,3 +8,14 @@
 * Go to **"GoldHen Cheat Menu"**
 * Active your cheat
 * Test your cheat in game.... 
+
+![PHOTO](https://github.com/chronoss09/GoldHen-Cheats-PKG/blob/main/1-GoldHen%20payload.jpg)
+![PHOTO](https://github.com/chronoss09/GoldHen-Cheats-PKG/blob/main/2-Choose%20Game.jpg)
+![PHOTO](https://github.com/chronoss09/GoldHen-Cheats-PKG/blob/main/3-Cheat%20Menu.jpg)
+![PHOTO](https://github.com/chronoss09/GoldHen-Cheats-PKG/blob/main/4-Cheat%20list.jpg)
+![PHOTO](https://github.com/chronoss09/GoldHen-Cheats-PKG/blob/main/5-Cheat%20actived.jpg)
+![PHOTO](https://github.com/chronoss09/GoldHen-Cheats-PKG/blob/main/6-Return%20on%20game.jpg)
+![PHOTO](https://github.com/chronoss09/GoldHen-Cheats-PKG/blob/main/7-Cheat%20in%20action.jpg)
+
+*If you want to offer me a tea, just click below*  
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/chronoss01)
