@@ -1,5 +1,8 @@
 # GoldHen Cheats PKG
 
+## Request for new cheat :
+Go to [PS4 Trainer Discord](https://discord.com/invite/bUEQj9p)
+
 ## How to use GoldHen cheats :  
 * Launch **GoldHen v2.x** payload
 * Launch your game
