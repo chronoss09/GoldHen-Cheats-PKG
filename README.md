@@ -1,7 +1,8 @@
 # GoldHen Cheats PKG
 
 ## Request for new cheat :
-Go to [PS4 Trainer Discord](https://discord.com/invite/bUEQj9p)
+Go to [PS4 Trainer Discord](https://discord.com/invite/bUEQj9p)  
+Thanks to TylorMods, Arafat, Sosa, Salt and other...
 
 ## How to use GoldHen cheats :  
 * Launch **GoldHen v2.x** payload
