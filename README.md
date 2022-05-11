@@ -2,7 +2,7 @@
 
 ## Request for new cheat :
 Go to [PS4 Trainer Discord](https://discord.com/invite/bUEQj9p)  
-Thanks to TylorMods, Arafat, Sosa, Salt and other...
+Thanks to PS4Trainer, TylorMods, Arafat, Sosa, Salt and others...
 
 ## How to use GoldHen cheats :  
 * Launch **GoldHen v2.x** payload
