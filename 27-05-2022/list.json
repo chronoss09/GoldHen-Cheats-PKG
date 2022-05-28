@@ -1,0 +1,52 @@
+{
+    "games": [
+        {
+            "name": "Dying Light: The Following – Enhanced Edition",
+            "title": "CUSA03991",
+            "version": "01.33",
+            "url": "./games/CUSA03991_01.33.json"
+        },
+        {
+            "name": "Call of Duty®: WWII",
+            "title": "CUSA05969",
+            "version": "01.25",
+            "url": "./games/CUSA05969_01.25.json"
+        },
+        {
+            "name": "Call of Duty®: WWII",
+            "title": "CUSA05969",
+            "version": "1.25",
+            "url": "./games/CUSA05969_1.25.json"
+        },
+        {
+            "name": "Hitman: Blood Money HD",
+            "title": "CUSA13612",
+            "version": "01.02",
+            "url": "./games/CUSA13612_01.02.json"
+        },
+        {
+            "name": "CAPTAIN TSUBASA: RISE OF NEW CHAMPIONS",
+            "title": "CUSA14896",
+            "version": "01.02",
+            "url": "./games/CUSA14896_01.02.json"
+        },
+        {
+            "name": "Planet Coaster",
+            "title": "CUSA17602",
+            "version": "01.00",
+            "url": "./games/CUSA17602_01.00.json"
+        },
+        {
+            "name": "My Friend Pedro - Blood Bullets Bananas",
+            "title": "CUSA18145",
+            "version": "01.01",
+            "url": "./games/CUSA18145_01.01.json"
+        },
+        {
+            "name": "Psychonauts 2",
+            "title": "CUSA27145",
+            "version": "01.08",
+            "url": "./games/CUSA27145_01.08.json"
+        }
+    ]
+}
