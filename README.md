@@ -22,4 +22,4 @@ Thanks to PS4Trainer, TylorMods, Arafat, Sosa, Salt and others...
 ![PHOTO](https://github.com/chronoss09/GoldHen-Cheats-PKG/blob/main/7-Cheat%20in%20action.jpg)
 
 *If you want to offer me a coffee, just click below*  
-[![ko-fi](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://ko-fi.com/chronoss)
+https://ko-fi.com/chronoss
