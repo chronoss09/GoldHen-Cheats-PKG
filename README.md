@@ -1,8 +1,10 @@
 # GoldHen Cheats PKG
+[![Buy me a coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://ko-fi.com/chronoss)  [![Github all releases](https://img.shields.io/github/downloads/rdmrocha/linkalho/total.svg)](https://github.com/chronoss09/GoldHen-Cheats-PKG/releases)
+[![Github all releases](https://img.shields.io/github/downloads/rdmrocha/linkalho/latest/total.svg)](https://github.com/chronoss09/GoldHen-Cheats-PKG/releases/tag/cheat_ps4)
 
 ## Request for new cheat :
 Go to [PS4 Trainer Discord](https://discord.com/invite/bUEQj9p)  
-Thanks to PS4Trainer, TylorMods, Arafat, Sosa, Salt and others...
+Thanks to PS4Trainer, TylorMods, Arafat, Sosa, Salt, Celogamez, Wander and others...
 
 ## How to use GoldHen cheats :  
 * Launch **GoldHen v2.x** payload
@@ -20,6 +22,3 @@ Thanks to PS4Trainer, TylorMods, Arafat, Sosa, Salt and others...
 ![PHOTO](https://github.com/chronoss09/GoldHen-Cheats-PKG/blob/main/5-Cheat%20actived.jpg)
 ![PHOTO](https://github.com/chronoss09/GoldHen-Cheats-PKG/blob/main/6-Return%20on%20game.jpg)
 ![PHOTO](https://github.com/chronoss09/GoldHen-Cheats-PKG/blob/main/7-Cheat%20in%20action.jpg)
-
-*If you want to offer me a coffee, just click below*  
-https://ko-fi.com/chronoss
