@@ -6,6 +6,11 @@
 Go to [PS4 Trainer Discord](https://discord.com/invite/bUEQj9p)  
 Thanks to PS4Trainer, TylorMods, Arafat, Sosa, Salt, Celogamez, Wander and others...
 
+## About new cheats : .mc4
+**New cheats come in .mc4 format so if you have no cheats file on your game list, you need to update your host to the last GoldHEN 2.2.5b7**
+**Some cheats come only in one CUSA file, i edit them to other CUSA for test and some code work fine**  
+**After you install the PKG and cheats file, your PS4 shutdown, reboot, enable GoldHEN and play**
+
 ## How to use GoldHen cheats :  
 * Launch **GoldHen v2.x** payload
 * Launch your game
