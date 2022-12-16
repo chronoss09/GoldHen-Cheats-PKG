@@ -4,7 +4,7 @@
 
 ## Request for new cheat :
 Go to [PS4 Trainer Discord](https://discord.com/invite/bUEQj9p)  
-Thanks to PS4Trainer, TylorMods, Arafat, Sosa, Salt, Celogamez, Wander and others...
+Thanks to PS4Trainer, TylorMods, Arafat, Sosa, Salt, Celogamez, Wander, @JustGotenks and others...
 
 ## About new cheats : .mc4
 **New cheats come in .mc4 format so if you have no cheats file on your game list, you need to update your host to the last GoldHEN 2.2.5b7**
