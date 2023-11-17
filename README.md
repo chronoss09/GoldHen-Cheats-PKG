@@ -1,5 +1,5 @@
 # GoldHen Cheats PKG
-[![Buy me a coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://ko-fi.com/chronoss) ![PICTURE](https://img.shields.io/github/downloads/Chronoss09/GoldHen-Cheats-PKG/total)
+[![Buy me a coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://ko-fi.com/chronoss) ![PICTURE](https://img.shields.io/github/downloads/Chronoss09/GoldHen-Cheats-PKG/total) ![PS4](https://img.shields.io/badge/-PS4-003791?style=flat&logo=PlayStation)
 
 ## Request for new cheat :
 Go to [PS4 Trainer Discord](https://discord.com/invite/bUEQj9p)  
