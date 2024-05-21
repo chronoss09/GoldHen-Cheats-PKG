@@ -10,6 +10,10 @@ Thanks to PS4Trainer, TylorMods, Arafat, Sosa, Salt, Celogamez, Wander, @JustGot
 **Some cheats come only in one CUSA file, i edit them to other CUSA for test and some code work fine.**  
 **After you install the PKG and cheats file, your PS4 shutdown, reboot, enable GoldHEN and play.**
 
+# 21.05.24 : _**New in the pkg : update history**_
+
+![PICTURE](https://github.com/chronoss09/GoldHen-Cheats-PKG/blob/main/update%20history.jpg)
+
 ## How to use GoldHen cheats :  
 * Launch **GoldHen v2.x** payload
 * Launch your game
